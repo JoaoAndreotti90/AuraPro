@@ -229,7 +229,7 @@ export const Home = () => {
               "A clareza sonora é impressionante. Nunca ouvi tantos detalhes nas minhas produções."
             </p>
             <div className='review-autor'>
-              <img src="/Imagem/Pessoa1.jpg" alt="Lucas Mendes" className='autor-foto' />
+              <img src="/Imagem/Pessoa2.jpg" alt="Lucas Mendes" className='autor-foto' />
               <div className='autor-info'>
                 <p className='autor-nome'>Lucas Mendes</p>
                 <p className='autor-cargo'>Produtor Musical</p>
@@ -249,7 +249,7 @@ export const Home = () => {
               "Finalmente um fone que entrega o que promete. O ANC é o melhor que já testei."
             </p>
             <div className='review-autor'>
-              <img src="/Imagem/Pessoa2.jpg" alt="Ana Clara" className='autor-foto' />
+              <img src="/Imagem/Pessoa1.jpg" alt="Ana Clara" className='autor-foto' />
               <div className='autor-info'>
                 <p className='autor-nome'>Ana Clara</p>
                 <p className='autor-cargo'>Audiófila</p>
@@ -269,7 +269,7 @@ export const Home = () => {
               "Uso em todas as minhas sessions. Conforto absurdo mesmo após horas de uso."
             </p>
             <div className='review-autor'>
-              <img src="/Imagem/Pessoa3.jpg" alt="Roberto Silva" className='autor-foto' />
+              <img src="/Imagem/Pessoa4.jpg" alt="Roberto Silva" className='autor-foto' />
               <div className='autor-info'>
                 <p className='autor-nome'>Roberto Silva</p>
                 <p className='autor-cargo'>DJ Profissional</p>
